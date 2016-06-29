@@ -1,29 +1,27 @@
 # Startup Incorporation Checklist
-#### How to bootstrap a Delaware C-corp (or S-corp) with employee(s) in California
+#### How to bootstrap a Pty Ltd company with employee(s) in Australia
 
 **Disclaimer:** I am not a lawyer (IANAL). This list is intended as a learning tool and you should *definitely* consult with a lawyer if you have any questions or concerns. This is a work in progress, so suggestions and pull requests are welcome! 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ##### Intro
-Other than building a product people want, incorporating a new business is essential to raising money, opening a bank account, and creating a legal entity for contracts and other liabilities. For technical folks like me, it's the "necessary evil" of founding a company and just needs to get done. Having gone through this recently, I made a checklist in case I'd have to do it again in the near future. Why you should incorporate in DE is outside the scope of this article, but [other folks have written good answers](https://www.quora.com/Why-do-most-technology-startups-incorporate-in-Delaware).
+Other than building a product people want, incorporating a new business is essential to raising money, opening a bank account, and creating a legal entity for contracts and other liabilities. For technical folks like me, it's the "necessary evil" of founding a company and just needs to get done. Having gone through this recently, I made a checklist in case I'd have to do it again in the near future.
 
 Some notes:
-- The full process will take several weeks to complete
+- The full process can take several weeks to complete
 - Most steps are sequential and depend on an earlier step being complete
-- Many steps require the use of snail mail or a [fax machine](#tools)
-- For brevity, Delaware and California are shortened to *DE* and *CA*
 - Again, consult your lawyer. Some will defer fees for startups
 
 # The checklist
-#### Register with DE
+#### Register with ASIC
 - [ ] Choose a name for your business and check that it's available. [DE Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) & [CA Name Search](http://kepler.sos.ca.gov/)
 - [ ] Generate incorporation documents and sign them [[service]](#free-tool1)
 - [ ] Buy registered agent service in DE - **1 yr Free**
 - [ ] File incorporation docs with DE - **~$150 including fees for 1 week service**
   - You can do this yourself, but it will probably take longer and not save you much money
 
-#### First steps with the IRS
+#### First steps with the ATO
 - [ ] Apply for a Federal Employer Identification Number (EIN) - **Free**
   - [IRS info & form](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
   - Expect the IRS to mail you a document containing your *EFTPS Pin*. This allows you to pay federal taxes electronically
